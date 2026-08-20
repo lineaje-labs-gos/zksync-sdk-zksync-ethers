@@ -1,6 +1,6 @@
 {
   "name": "zksync-ethers",
-  "version": "5.11.2",
+  "version": "5.11.2-lineaje-01",
   "description": "A Web3 library for interacting with the ZkSync Layer 2 scaling solution.",
   "author": {
     "name": "Matter Labs",
@@ -8,9 +8,15 @@
     "email": "hello@matterlabs.io"
   },
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zksync-sdk/zksync-ethers.git"
+    "url": "https://github.com/lineaje-labs-gos/zksync-sdk-zksync-ethers"
   },
   "bugs": {
     "url": "https://github.com/zksync-sdk/zksync-ethers.git/issues"
